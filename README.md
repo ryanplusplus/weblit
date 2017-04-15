@@ -60,7 +60,7 @@ while also listening on port `8443` using HTTPS.
 The `host` option defaults to `"127.0.0.1"`.  The default port depends on if
 you're running as root and if the connection is TLS encrypted.
 
-      | Root | User
+Protocol | Root | User
 ------|-----:|------:
 HTTP  | 80   | 8080
 HTTPS | 442  | 8443
